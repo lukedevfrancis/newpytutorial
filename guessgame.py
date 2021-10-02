@@ -1,5 +1,5 @@
 
-secret_word = "football"
+secret_word = "soccer"
 guess = ""
 guess_count = 0
 guess_limit = 3
