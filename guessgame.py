@@ -1,5 +1,5 @@
 
-secret_word = "soccer"
+secret_word = "patriots"
 guess = ""
 guess_count = 0
 guess_limit = 3
