@@ -1,11 +1,10 @@
-secret_word = "providence"
+secret_word = "luke"
 guess = ""
 guess_count = 0
-guess_limit = 3
+guess_limit = 4
 out_of_guesses = False
 
-
-while guess != secret_word and not (out_of_guesses):
+while secret_word != guess and not (out_of_guesses):
     if guess_count < guess_limit:
         guess = input("Enter guess: ")
         guess_count += 1
@@ -14,4 +13,4 @@ while guess != secret_word and not (out_of_guesses):
 if out_of_guesses:
     print("Out of guesses. You lose !")
 else:
-    print("You won!")
+    print("You won !")
