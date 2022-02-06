@@ -5,3 +5,4 @@
 This also works for commenting out
 '''
 # I think this is the best way to comment out data
+# Commenting out code will definetly help me out in the future 
