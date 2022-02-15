@@ -10,3 +10,6 @@ class ChineseChef(Chef):
 
     def make_eggroll(self):
         print("The chef makes eggroll")
+
+    def make_noodle(self):
+        print("The chef makes noodle")
